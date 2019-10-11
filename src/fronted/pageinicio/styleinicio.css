@@ -1,0 +1,50 @@
+body{padding: 0px; margin: 0px;}
+
+
+.Navigation{ background:#0028ff; }
+
+.imglogo{
+
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+
+}
+
+.containermenu{
+
+    width: auto;
+    background: #366ed8;
+
+}
+
+.Navigation .containermenu ul{
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.options{
+    margin-right: 100px;
+   
+}
+
+.Navigation .containermenu ul li{
+
+    display: inline-block;
+    background: white;
+    padding:10px;
+    border-radius: 10px;
+    margin:10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Navigation ul li:hover{
+
+    background:  grey;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}

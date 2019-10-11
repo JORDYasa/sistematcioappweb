@@ -1,0 +1,33 @@
+#footer-columns {
+
+    margin:  0 auto; 
+    padding: 0;    
+    width: 800px;     
+    background-color: #d5fdff;
+}
+
+#footer-columns ul {
+
+    list-style: none;
+    margin: 0; 
+    padding: 0;   
+}
+
+#footer-columns li {     
+
+    float: left;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+#footer-columns .col3, .col3-center {
+    float: left;
+    width: 30%;
+}
+
+.social{
+
+    float: left;
+    width: 30px;
+    height: 30px;
+}
